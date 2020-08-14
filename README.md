@@ -1,6 +1,6 @@
 ## Hi There 👋 
 
- 🎯 Working for posterity. Passionate about learning new things that help create solutions that add up to human development.
+ 🎯  Working for posterity. Passionate about learning new things that help create solutions that add up to human development.
  <br/> :purple_heart: &nbsp; Looking to collaborate with projects using JavaScript and React.
  <br/> :blush: &nbsp; I can help you with investiments into the stock market.
  <br/> :computer: &nbsp; I’m currently learning JavaScript, Typescript, NodeJS, React and React Native 
