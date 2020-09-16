@@ -3,7 +3,7 @@
  🎯  Working for posterity. Passionate about learning new things that help create solutions that add up to human development.
  <br/> :purple_heart: &nbsp; Looking to collaborate with projects using JavaScript and React.
  <br/> :blush: &nbsp; I can help you with investments into the stock market.
- <br/> :computer: &nbsp; I’m currently learning JavaScript, Typescript, NodeJS, React and React Native 
+ <br/> :computer: &nbsp; I’m currently learning Typescript, NodeJS, React and React Native 
  <br/> 💬  &nbsp; About me: My family above everything, I enjoy technology and investments in general also as a hobby once a week I have to play soccer, tennis, cycling or kayak.<br/>
  <br/> :email: &nbsp; How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FelipeCosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-costa-805bb7119/)](https://www.linkedin.com/in/felipe-costa-805bb7119/) 
 | 
