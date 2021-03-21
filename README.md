@@ -7,3 +7,6 @@
  <br/> :email: &nbsp; How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FelipeCosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-costa-805bb7119/)](https://www.linkedin.com/in/felipe-costa-805bb7119/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-felipejsilvacosta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipejsilvacosta@gmail.com)](mailto:felipejsilvacosta@gmail.com)
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipecostabr&show_icons=true&locale=en&layout=compact" alt="informations" /></p>
