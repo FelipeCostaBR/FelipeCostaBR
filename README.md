@@ -1,6 +1,6 @@
 ## Hi There 👋 
 
- 🎯  Passionate about learning new technologies that help create solutions that add up to human development.
+ 🎯   Passionate about learning new technologies that help create solutions that add up to human development.
  <br/> :purple_heart: &nbsp; Looking to collaborate with projects using Node and React.
  <br/> :computer: &nbsp; I’m currently learning Laravel and React Native 
  <br/> 💬  &nbsp; About me: My family above everything, I enjoy technology and investments in general also as a hobby i like to play soccer, tennis, cycling or kayak.<br/>
